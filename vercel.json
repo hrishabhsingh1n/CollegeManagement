@@ -1,6 +1,6 @@
 {
 
-    "builds": [{
+    "build": [{
 
         "src": "college_managemnet_system/wsgi.py",
         "use": "@vercel/python",
